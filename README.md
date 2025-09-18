@@ -5,7 +5,7 @@ local Translations = {
     ["Player"] = "玩家类",
     ["Finder"] = "查找器",
     ["Server"] = "服务器类",
-    ["Discord"] = "Q群和红辣椒dc群",
+    ["Discord"] = "Q群",
     ["Select Item to Buy"] = "选择自动买的东西",
     ["Auto Buy Item"] = "自动购买",
     ["Min money per sec to buy"] = "脑红最小金额",
@@ -50,12 +50,14 @@ local Translations = {
     ["Jump Boost"] = "跳跃提升",
     ["Gravity"] = "重力",
     ["Chilli Speed Boost"] = "红辣椒速度增强(无用)",
-    ["Steal a Brainot-Chilli Hub"] = "偷走脑红-红辣椒(汉化者：朝霞",
+    ["Steal a Brainot"] = "偷走脑红(汉化者：朝霞)",
     ["Chilli Float"] = "假人飞天",
     ["Laser Steal"] = "激光窃取",
     ["Steal upstairs"] = "偷楼上",
     ["OFF"] = "关闭",
-    ["ONN"] = "开启",
+    ["ON"] = "开启",
+    ["chilli Hub"] = "红辣椒",
+    [""] = "",
 }
 
 local function translateText(text)
